@@ -36,6 +36,7 @@ RUN apt-get update && apt-get install -y --force-yes \
   php7.0-memcached \
   php7.0-gd \
   php7.0-xdebug \
+  php-xml \
   php-dev \
   libcurl4-openssl-dev \
   libedit-dev \
